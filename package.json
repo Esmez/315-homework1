@@ -1,0 +1,14 @@
+{
+  "name": "homework1",
+  "version": "0.0.1",
+  "description": "This is npm test",
+  "main": "index.js",
+  "scripts": {
+    "serve": "live-server"
+  },
+  "author": "Esmeralda Gonzalez",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  }
+}
